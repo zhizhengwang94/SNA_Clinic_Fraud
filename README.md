@@ -3,13 +3,9 @@
 Files for submission:
 
 Group_Project_Healtcare_Analysis_Step1_Data_Selection.ipynb
-
 Group_Project_Healtcare_Analysis_Step2_Graph.ipynb
-
 Group_Project_Healtcare_Analysis_Step3_Data_Parsing.ipynb
-
 Group_Project_Healtcare_Analysis_Step4_Data_Analysis.ipynb
-
 Group_Project_Healtcare_Analysis_Step5_Data_Modelling.ipynb
 
 Please run each step to get the source file for the next one, or you can download the output directly from below.
